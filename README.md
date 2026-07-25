@@ -1,4 +1,6 @@
-# 🥬 Leek Garden（韭菜园）
+# 🥬 散户.skill
+
+##### Leek Garden（韭菜园）
 
 > 理解韭菜，才能不做韭菜。
 
